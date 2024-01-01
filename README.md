@@ -1,0 +1,1 @@
+This is an education-based website made using MERN stack. Basic functionalities include interaction with buttons, insertions of audio, video and images. We tried implementing a chatroom as well where students can talk to their seniors.
